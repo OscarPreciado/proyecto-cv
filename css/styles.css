@@ -1,0 +1,245 @@
+body{
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', 'Arial';
+}
+
+/* -------------------- */
+/* Contenido principal */
+/* -------------------- */
+
+.contenedor-principal{
+    width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.texto-naranja {
+    color: #FB6D3A;
+}
+
+.periodo-empresa {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+/* -------------------- */
+/* info general */
+/* -------------------- */
+
+.informacion-general{
+    padding: 50px 88px;
+}
+
+.nombre {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.texto-descripcion{
+    width: 500px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: justify;
+}
+/* -------------------- */
+/* Secciones principales */
+/* -------------------- */
+
+
+.titulo-seccion-principal{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 45px;
+}
+
+/* -------------------- */
+/* Seccion de lista */
+/* -------------------- */
+
+.lista-lateral{
+    padding-left: 17px;
+}
+
+.lista-lateral > li{
+    color: #FB6D3A;
+}
+
+.elemento-lista-lateral{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+.lista-proyectos{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+}
+
+.enlaces-proyectos{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.puntos-proyectos{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    letter-spacing: 2px;
+}
+
+.informacion-lateral{
+    background-color: #1E2939;
+    padding: 40px 0;
+}
+
+li{
+    line-height: 24px;    
+}
+/* -------------------- */
+/* info lateral */
+/* -------------------- */
+
+.descripcion {
+    margin-bottom: 40px;
+}
+
+.descripcion-profesion {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.proyectos {
+
+    margin-bottom: 50px;
+}
+/* -------------------- */
+/* Experiencia laboral  */
+/* -------------------- */
+
+.empresa_container{
+    margin-top: 40px;
+}
+.puesto-empresa {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 11px;
+}
+
+.lista-experiencia {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+    padding-right: 227px;  
+}
+
+
+
+/* -------------------- */
+/* Educacion  */
+/* -------------------- */
+
+.educacion_container {
+    margin-top: 40px;
+}
+
+.lugar-estudio{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.carrera-estudiada {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 11px;
+    margin-bottom: 12x;
+}
+
+/* Info secundaria */
+
+.titulo-lateral{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+.contactos, .habilidades-tecnicas, .habilidades-blandas{
+    margin-left: 40px;
+}
+
+/* -------------------- */
+/* Contactos */
+/* -------------------- */
+
+.tipo-contacto{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+    color: white;
+}
+
+.contacto-info{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(177, 177, 177);
+}
+
+/* Referencias */
+
+.lugar-estudio{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.carrera-estudiada {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 11px;
+    margin-bottom: 12x;
+}
